@@ -1,6 +1,6 @@
 # 👨‍💻 Kauã Vezaro
 
-Olá, me chamo Kauã Moraes Vezaro, tenho 19 anos e sou natural do Rio Grande do SUl. Conclui o ensino médio na escola estadual Padre José de Anchieta. Atualmente estou cursando o 4° semestre de Sistemas de Informação na UFSM/FW. Sou apaixonado em tecnologia e inovações, criei o meu pefil no GitHub para compartilhar os meus projetos que irei desenvolver ao longo da minha carreira na área da tecnologia.
+Olá, me chamo Kauã Moraes Vezaro, tenho 19 anos e sou natural do Rio Grande do Sul. Conclui o ensino médio na escola estadual Padre José de Anchieta. Atualmente estou cursando o 4° semestre de Sistemas de Informação na UFSM/FW. Sou apaixonado em tecnologia e inovações, criei o meu pefil no GitHub para compartilhar os meus projetos que irei desenvolver ao longo da minha carreira na área da tecnologia.
 
 # 📱 Redes Sociais
 <div>  
